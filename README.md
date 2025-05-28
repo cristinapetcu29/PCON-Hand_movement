@@ -1,11 +1,11 @@
-# (Titlul)
-(Scurtă descriere)
+# Hand controlled sounds
+There are a few main maxpat files to use. 
 
 ## (Instalare)
-...
+Just have Max.
 
 ## (Utilizare)
-...
+Place all the documents in the same folder
 
 ## (Istoric)
 
