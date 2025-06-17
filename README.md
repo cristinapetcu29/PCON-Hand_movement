@@ -34,7 +34,17 @@ Usage
 Note: All joint landmarks (e.g., index_finger_tip, pinky_finger_dip) are unpacked and can be routed individually for customized control.
 History
 
+    02.04 - Trial with some Internet versions
+
+    05.04 - Schematic design of the project
+
+    12.04 - First functional version
+
+    22.04 -Second functional version
+
     13.05 – Initial version with basic hand tracking data routing
+
+    17.05 - Second version, with improvements
 
     03.06 – Implemented pitch shifting and gain control based on landmark positions
 
